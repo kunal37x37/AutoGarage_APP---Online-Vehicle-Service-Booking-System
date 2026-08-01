@@ -63,6 +63,14 @@ Garage owners can manage their business efficiently by accepting/rejecting booki
 - Firebase Account
 - Minimum SDK: API 21 (Android 5.0)
 
+📸 **Screenshots**  
+
+**User  Screenshots:** 
+
+| <img width="491" height="371" alt="image" src="https://github.com/user-attachments/assets/e98f5928-8379-4755-a50e-2d1967635731" />|<img width="491" height="371" alt="image" src="https://github.com/user-attachments/assets/c7af78a7-4596-4b45-89ec-7a1756ecbc18" />|<img width="505" height="361" alt="image" src="https://github.com/user-attachments/assets/c4a5fe95-e9f2-4c66-8c04-06f3d33d3f7a" />|<img width="497" height="362" alt="image" src="https://github.com/user-attachments/assets/2234c767-0653-4b74-8e18-0abd44ab8e54" />|<img width="500" height="368" alt="image" src="https://github.com/user-attachments/assets/3a2d54b3-f25b-4ad2-83b2-e2a35e7a91e2" />|<img width="478" height="385" alt="image" src="https://github.com/user-attachments/assets/4cc94d0f-e38f-4aeb-850c-38c37d4bc168" />|
+
+
+
 # 📜 License
 This project is licensed under the MIT License.
 
