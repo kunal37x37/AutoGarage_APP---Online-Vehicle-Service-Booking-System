@@ -63,8 +63,10 @@ Garage owners can manage their business efficiently by accepting/rejecting booki
 - Firebase Account
 - Minimum SDK: API 21 (Android 5.0)
 
-### Installation
+# 📜 License
+This project is licensed under the MIT License.
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/AutoGarage.git
+# 👨‍💻 Author
+Patel Kunal Kiranbhai<br>
+GitHub:kunal37x37<br>
+Project Link:https://github.com/kunal37x37/AutoGarage-Online-Vehicle-Service-Booking-System-MERN-Stack-
